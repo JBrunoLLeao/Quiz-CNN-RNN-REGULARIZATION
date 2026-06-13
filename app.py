@@ -213,8 +213,8 @@ TOTAL = len(QUESTIONS)
 # ── Hero ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-  <h1>🧠 Quiz · Deep Learning Avançado</h1>
-  <p>50 perguntas difíceis sobre <strong>CNN</strong>, <strong>RNN</strong> e <strong>Regularização</strong> — leia com atenção!</p>
+  <h1>Quiz · Deep Learningo</h1>
+  <p>50 perguntas sobre <strong>CNN</strong>, <strong>RNN</strong> e <strong>Regularização</strong> — leia com atenção!</p>
 </div>
 """, unsafe_allow_html=True)
 
