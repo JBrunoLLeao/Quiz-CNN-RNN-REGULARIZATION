@@ -4,7 +4,6 @@ from questions import QUESTIONS
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Quiz · CNN / RNN / Regularização",
-    page_icon="🧠",
     layout="centered",
 )
 
